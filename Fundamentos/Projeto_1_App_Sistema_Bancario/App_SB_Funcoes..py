@@ -1,5 +1,6 @@
 import textwrap
 
+# menu usando o import "textwrap"
 
 def menu():
     menu = """\n
